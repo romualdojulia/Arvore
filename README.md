@@ -112,7 +112,7 @@ public class Arvore<TIPO extends Comparable>  {
 	}
 }
 
-/*Classe TesteArvore - Imprime os elementos da arvore devidamente organizados*/
+/*Classe TesteArvore - Classe principal - Imprime os elementos da arvore devidamente organizados*/
 
 	public static void main(String[] args) {
 		Arvore<Integer> arvore = new Arvore<Integer>();
